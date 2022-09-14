@@ -11,7 +11,6 @@ Youtube Downloader is a lightweight, YouTube video downloader that supports .mp3
 - Click download button and choose destination
 
 NOTE: It is against YouTube's terms of service to download content without express permission from YouTube themselves. This tool is meant merely as a demonstration and for portfolio purposes. Any legal troubles or mishaps are not the responsibiulity of myself or any contributors to YouTube Downloader.
-As [John Gruber] writes on the [Markdown site][df1]
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
