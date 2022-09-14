@@ -12,21 +12,14 @@ Youtube Downloader is a lightweight, YouTube video downloader that supports .mp3
 
 NOTE: It is against YouTube's terms of service to download content without express permission from YouTube themselves. This tool is meant merely as a demonstration and for portfolio purposes. Any legal troubles or mishaps are not the responsibility of myself or any contributors to YouTube Downloader.
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+> The video quality is only 720p. As of writing,
+> I can not find a way to make it higher than that.
+> Welcome to any collaborations that have a solution
+> for allowing pytube to pull higher quality video.
 
 ## Installation
 
-Just go under the Releases tab to download the executuable! Or you can  just steal the .py file.
+Just go under the Releases tab to download the executuable! Or you can just steal the .py file.
 
 ## Development
 
@@ -36,7 +29,7 @@ Small quality of life improvements are being made to the application to make it 
 
 MIT
 
-**Free Software, Hell Yeah!**
+**free as free can be**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
